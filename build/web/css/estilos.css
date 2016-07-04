@@ -1,0 +1,45 @@
+header{
+
+     background:rgb(2, 71, 55);
+     color:white;
+}
+
+.main{
+        background:red;
+}
+
+.color1{
+     background:black;
+     color:#fff;
+}
+
+aside{
+    background:#c0392b;
+    color:#fff;
+}
+
+footer{
+    background:rgb(2, 71, 55);
+     color:#fff;
+}
+
+.color2{
+    background:rgb(2, 71, 55);
+
+}
+
+.color3{
+
+  background:rgb(33, 163, 163);
+}
+
+#div1 {
+     overflow:scroll;
+     height:100px;
+     width:500px;
+}
+
+#div1 table {
+    width:500px;
+    background-color:lightgray;
+}
